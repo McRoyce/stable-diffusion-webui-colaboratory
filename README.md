@@ -1,6 +1,9 @@
 # Stable Diffusion Web UI with Google Colaboratory
 It's simple way to run [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with Google Colaboratory
 
+# Click Here to Open
+<a href=\"https://colab.research.google.com/github/McRoyce/stable-diffusion-webui-colaboratory/blob/main/SD_Web_UI.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+
 # Features
 1. Add images browser extension.
 2. Add custom models or checkpoints.
