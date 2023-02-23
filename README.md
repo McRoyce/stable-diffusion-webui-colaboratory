@@ -2,7 +2,7 @@
 It's simple way to run [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with Google Colaboratory
 
 # Click Here to Open
-<a href="https://colab.research.google.com/github/McRoyce/stable-diffusion-webui-colaboratory/blob/main/SD_Web_UI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/github/McRoyce/stable-diffusion-webui-colaboratory/blob/main/SD_Web_UI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Features
 1. Deforum Art.
@@ -20,7 +20,7 @@ It's simple way to run [Stable Diffusion Web UI](https://github.com/AUTOMATIC111
 
 # Installation
 1. Run the first cell by click play button.
-2. Open the link after shows https://numbers.gradio.app" in output.
+2. Open the link after shows https://numbers.gradio.live/.app in output.
 3. Use Stable Diffusion checkpoint dropdown to change the model.
 
 # How to add custom LoRA, Checkpoint & Textual Inversion via CivitAi
