@@ -2,7 +2,7 @@
 It's simple way to run [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with Google Colaboratory
 
 # Click Here to Open
-<a href="https://colab.research.google.com/github/McRoyce/stable-diffusion-webui-colaboratory/blob/main/SD_Web_UI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href=\"https://colab.research.google.com/github/McRoyce/stable-diffusion-webui-colaboratory/blob/main/SD_Web_UI.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
 # Features
 1. Deforum Art.
@@ -64,7 +64,6 @@ It's simple way to run [Stable Diffusion Web UI](https://github.com/AUTOMATIC111
 11. [Ulzzang-6500](https://civitai.com/models/8109/ulzzang-6500-korean-doll-aesthetic) by festival
 12. [bad-artist](https://huggingface.co/NiXXerHATTER59/bad-artist) by NiXXerHATTER59
 13. [bad_prompt](https://huggingface.co/datasets/Nerfgun3/bad_prompt) by Nerfgun3
-
 
 # Don't Forget to Visit Me at:
 <a href="https://www.linkedin.com/in/muhamad-faisal-fikri-dewantoro-18655b226" title="Kunjungi LinkedIn saya"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="75px" alt="Lihat saya di LinkedIn"></a> &nbsp;
